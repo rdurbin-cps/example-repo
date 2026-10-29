@@ -1,3 +1,0 @@
-# git-task
-
-git-task
