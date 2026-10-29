@@ -10,5 +10,8 @@ git commit -m "Add example-code file"
 git add "D:\Bootcamp Files\git-task\readme.md"
 git commit -m "D:\Bootcamp Files\git-task\readme.md"
 
+git add "D:\Bootcamp Files\git-task\example-repo.txt"
+git commit -m "D:\Bootcamp Files\git-task\example-repo.txt"
+
 git pull --rebase origin main
 git push -u origin main
