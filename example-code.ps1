@@ -12,3 +12,8 @@ git commit -m "Add README file"
 
 git pull --rebase origin main
 git push -u origin main
+
+
+git fetch origin
+git log --oneline origin/main
+git log --oneline main
