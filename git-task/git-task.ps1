@@ -1,4 +1,4 @@
-cd "D:\Bootcamp Files\git-task\git-task"
+cd "D:\Bootcamp Files\git-task"
 
 git init
 
@@ -6,13 +6,13 @@ git status
 
 git status
 
-git add hello_world.py
+git add "D:\Bootcamp Files\git-task\git-task\hello_world.py"
 
 git status
 
 git status
 
-git add hello_world.py
+git add "D:\Bootcamp Files\git-task\git-task\hello_world.py"
 git status
 
 git commit -m "Add hello_world.py file"
